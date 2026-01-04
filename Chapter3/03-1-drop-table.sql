@@ -1,0 +1,1 @@
+DROP TABLE doit_create_table;
