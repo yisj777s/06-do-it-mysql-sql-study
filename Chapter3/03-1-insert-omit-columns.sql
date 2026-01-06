@@ -1,0 +1,1 @@
+INSERT INTO doit_dml VALUES (2, '열 이름 생략', '2023-01-02');
