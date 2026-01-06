@@ -1,0 +1,1 @@
+INSERT INTO doit_dml(col_1) VALUES ('문자 입력');
