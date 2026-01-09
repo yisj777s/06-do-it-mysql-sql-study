@@ -1,0 +1,1 @@
+INSERT INTO doit_dml VALUES (3, 'col_3 값 생략');
