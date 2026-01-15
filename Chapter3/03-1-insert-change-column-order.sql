@@ -1,0 +1,1 @@
+INSERT INTO doit_dml (col_1, col_3, col_2) VALUES (4, '2023-01-03', '열순서 변경');
