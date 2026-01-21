@@ -1,0 +1,1 @@
+UPDATE doit_dml SET col_1 = col_1 + 10;
