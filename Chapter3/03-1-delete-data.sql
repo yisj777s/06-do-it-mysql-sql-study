@@ -1,0 +1,1 @@
+DELETE FROM doit_dml WHERE col_1 = 14;
