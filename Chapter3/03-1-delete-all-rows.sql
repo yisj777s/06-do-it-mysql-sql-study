@@ -1,0 +1,1 @@
+DELETE FROM doit_dml;
