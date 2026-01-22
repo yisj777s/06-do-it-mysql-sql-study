@@ -1,0 +1,1 @@
+TRUNCATE TABLE doit_dml;
